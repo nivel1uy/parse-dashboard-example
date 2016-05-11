@@ -5,5 +5,7 @@ env_variables:
   # --REQUIRED--
   APP_ID: <your-app-id>
   MASTER_KEY: <your-master-key>
+  USER_ID: <your-username>
+  USER_PASSWORD: <your-password>
   # --OPTIONAL--
   # APP_NAME: <your-app-name>
