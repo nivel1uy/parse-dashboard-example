@@ -21,6 +21,14 @@
       "description": "The name of the app that will show up in the dashboard.",
       "value": "myAppName"
     },
+    "USER_ID": {
+      "description": "Username to access the dashboard.",
+      "value": "myUsername"
+    },
+    "USER_PASSWORD": {
+      "description": "Password to access the dashboard.",
+      "value": "myPassword"
+    },
   },
   "image": "heroku/nodejs"
 }
