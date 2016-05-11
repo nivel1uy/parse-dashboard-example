@@ -17,7 +17,8 @@ var dashboard = new ParseDashboard({
     {
       user: process.env.USER_ID || 'admin',
       pass: process.env.USER_PASSWORD || 'password'
-    }
+    },
+  ],
 });
 
 var app = express();
